@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\Desktop\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj": {}
   },
   "projects": {
-    "D:\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj": {
+    "C:\\Users\\PRAKTIKAN\\Desktop\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Desktop\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj",
         "projectName": "modul10_1302220129",
-        "projectPath": "D:\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\Desktop\\modul10_1302220129\\modul10_1302220129\\modul10_1302220129.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\modul10_1302220129\\modul10_1302220129\\obj\\",
+        "outputPath": "C:\\Users\\PRAKTIKAN\\Desktop\\modul10_1302220129\\modul10_1302220129\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

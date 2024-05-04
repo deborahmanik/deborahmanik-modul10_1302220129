@@ -2,36 +2,17 @@
 {
     public class Mahasiswa
     {
-        public String nama ( get; set; )
-        public String nim (get; set; )
-        public List<string> course;
-        public int year;
+        public string nama { get; set; }
+        public string nim {get; set; }
+        public List<string> course {  get; set; } = new List<string>();
+        public int year {  get; set; }
 
-        public Mahasiswa(string nama, string nim)
+        public Mahasiswa(string nama, string nim, List<string> course, int year)
         {
             this.nim = nim;
             this.nama = nama;
+            this.year = year;
+            this.course = course;
         }
-
-        public void setNama (String nama)
-        {
-            this.nama = nama;
-        }
-
-        public String getNama()
-        {
-            return nama();
-        }
-
-        public String getnim()
-        {
-            return nim();
-        }
-
-        public void setNim(String nim)
-        {
-            this.nim = nim;
-        }
-
     }
 }

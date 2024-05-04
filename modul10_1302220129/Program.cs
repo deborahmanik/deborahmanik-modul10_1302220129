@@ -14,12 +14,8 @@ namespace modul10_1302220129
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            var builder = WebApplication.CreateBuilder(args);
+            
             var app = builder.Build();
-
-            app.MapGet("/", () => "Hello World!");
-
-            app.Run();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
